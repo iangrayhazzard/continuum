@@ -61,7 +61,7 @@ A deep dive into the new calendar system.
         -   **"The Date Calculator" (New Feature):** A powerful tool demonstrating the calendar's consistency.
             -   Input: "What day of the week is 53 days from now?" Output: "A Tuesday."
             -   Input: "What is the date 100 days from today?" Output: "June 16th."
-            -   This leverages the predictable \(13 \times 28 + 1 = 365\) structure.
+            -   This leverages the predictable $13 \times 28 + 1 = 365$ structure.
 
 #### 3.3. The Universal Time Page
 
@@ -84,8 +84,10 @@ A deep dive into the human-centric temperature scale.
 -   **Features & Content:**
     -   **The "Comfort-O-Meter" & "What to Wear" Widgets:** These visual tools remain the core of the page, directly supporting the **Human-Centric** principle.
     -   **Converter & Formulas:** The easy-to-use calculator for converting between Hazzen, Fahrenheit, and Celsius, with formulas displayed.
-        -   From Fahrenheit: $$ H = \frac{F - 66}{4} $$
-        -   From Celsius: $$ H = \frac{1.8 \times C - 34}{4} $$
+        -   From Fahrenheit:
+            $$H = \frac{F - 66}{4}$$
+        -   From Celsius:
+            $$H = \frac{1.8 \times C - 34}{4}$$
     -   **Explanatory Text:**
         -   **"Temperature for Humans":** This text will explain the philosophy, emphasizing that while scientific scales are useful for science, the Hazzen scale is designed for daily life.
 
