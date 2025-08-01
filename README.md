@@ -4,7 +4,7 @@
 [![RFC Status](https://img.shields.io/badge/RFC-Draft-blue.svg)](./standard/RFC.md)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/your-username/continuum/actions)
 
-A human-centric system for time, date, and temperature designed for a unified, global future.
+A people-centric system for time, date, and temperature designed for a unified, global future. The design is very human.
 
 The Hazzard Continuum is an open-source project to rethink how we measure our daily lives. It replaces confusing, inconsistent systems with a set of standards that are logical, predictable, and designed for a future where global collaboration is the norm.
 
